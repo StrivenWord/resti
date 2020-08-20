@@ -1,10 +1,11 @@
----
-title: "Vortglavo"
-date: 2020-08-16T18:28:34-04:00
-categories: poetry
-tags: Esperanto, English
-draft: true
----
++++
+title = "Vortglavo"
+author = "Striv"
+date = "2020-08-16T18:28:34-04:00"
+categories = poetry
+tags = Esperanto, English
+draft = true
++++
 
 Extra pages at a book's end prove that it is honest.
 *Veraj paĝoj havas molaĵon.*
