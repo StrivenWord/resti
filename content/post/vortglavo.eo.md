@@ -1,10 +1,10 @@
 +++
 title = "Vortglavo"
 author = "Striv"
-date: "2020-08-16T18:28:34-04:00"
-categories = "poezio"
-tags = esperanta-lingvo, angla-lingvo
-draft = true
+date = "2020-08-16T18:28:34-04:00"
+categories = ["poezio"]
+tags = ["esperanta-lingvo", "angla-lingvo"]
+draft = "true"
 +++
 
 Extra pages at a book's end prove that it is honest.
