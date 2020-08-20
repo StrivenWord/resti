@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "eo"
+defaultContentLanguage = "eo"
 title = "Anubis"
 theme = "anubis"
 paginate = 3
@@ -40,24 +40,24 @@ googleAnalytics = ""
   url = "/posts/"
   weight = 3
 
-[languages.pl]
-  languageName = "Polski"
+[languages.eo]
+  languageName = "Esperanto"
 
-[[languages.pl.menu.main]]
+[[languages.eo.menu.main]]
   identifier = "about"
-  name = "O Hugo"
-  url = "/about/"
+  name = "Jen"
+  url= "/about/"
   weight = 1
 
-[[languages.pl.menu.main]]
+[[languages.eo.menu.main]]
   identifier = "tags"
-  name = "Tagi"
+  name = "Etikedoj"
   url = "/tags/"
   weight = 2
 
-[[languages.pl.menu.main]]
+[[languages.eo.menu.main]]
   identifier = "archive"
-  name = "Archiwum"
+  name = "Arkivo"
   url = "/posts/"
   weight = 3
 

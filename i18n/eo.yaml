@@ -1,0 +1,44 @@
+powered:
+  other: "funkciigita per"
+
+theme:
+  other: "aspekto"
+
+readMore:
+  other: "legi pli"
+
+toNewPosts:
+  other: "nova"
+
+toOldPosts:
+  other: "malnova"
+
+tag:
+  other: "etikedo"
+
+Tags:
+  other: "Etikedoj"
+
+Posts:
+  other: "Artikuloj"
+
+category:
+  other: "kategorio"
+
+Categories:
+  other: "Kategorioj"
+
+toAllTags:
+  other: "ĉiuj etikedoj"
+
+toAllCategories:
+  other: "ĉiuj kategorioj"
+
+skipToContent:
+  other: "salti al enhavo"
+
+darkTheme:
+  other: "malluma aspekto"
+
+lightTheme:
+  other: "luma aspekto"
