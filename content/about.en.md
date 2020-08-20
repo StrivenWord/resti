@@ -1,9 +1,8 @@
 ---
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+title: "About this blog"
+date: 2020-08-15T15:27:45-04:00
+description: "Hello"
+author: "Striv"
 ---
 
 This is my blog. It has content in both Esperanto and English.

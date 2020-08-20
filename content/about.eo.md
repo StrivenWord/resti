@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Pri ĉi tio blogo"
 date: 2020-08-15T15:27:45-04:00
 description: "Hello"
 author: "Striv"
