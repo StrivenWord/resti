@@ -34,3 +34,4 @@ Quality wine saved for the end proves the host.
 Long and burdensome conversations prove friendship.
 
 *Veraj vortoj havas glavojn.*
+<!--more-->
