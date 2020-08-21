@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "eo"
 defaultContentLanguage = "eo"
-title = "Anubis"
+title = "Resti"
 theme = "anubis"
 paginate = 3
 
@@ -9,14 +9,14 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "Dmitry Kolosov"
+  name = "Paul Lee"
 
 [params]
-   author = "Dmitry Kolosov"
-   description = "Anubis is a simple minimalist theme for Hugo blog engine."
+   author = "Paul Lee"
+   description = "Blogo pri restanto ĉi tie // A blog about staying here"
    dateFormat = "2006-01-02"
    paginationSinglePost = true
-   style = "light-without-switcher"
+   style = "dark"
    readMore = false
 
 [languages.en]
