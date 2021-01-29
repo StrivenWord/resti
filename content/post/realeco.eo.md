@@ -9,7 +9,7 @@ Estu, ke mi farigu la plej bonan de kio estas donita al me hodiaŭ, funde vivi l
 
 Estu, ke mi akceptu fiaskon sen iam akcepti malvenko, neniam rezigni eĉ, post kiam estas tro da malfrua.
 
-Kvankam mi estas suferonta, permesu ne, ke mia doloro estus la vaka malsato de tiuj kiu vivas nur por konsumi ĉar ili estas forlasinta espero.
+Kvankam mi estas suferonta, permesu ne, ke mia doloro estus la vaka malsato de tiuj kiu vivas nur por konsumi ĉar ili estas forlasinta esperon.
 
 Bonvolu permesi, ke mi vidu mian esperon hodiaŭ.
 
