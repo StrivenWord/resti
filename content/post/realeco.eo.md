@@ -1,8 +1,8 @@
 ---
 title: "Realeco Preĝo"
 date: 2021-01-28T06:18:22-05:00
-categories: preĝo, respeguliĝo
-tags: esperanta-lingvo, angla-lingvo
+categories: ["preĝo", "respeguliĝo"]
+tags: ["esperanta-lingvo", "angla-lingvo"]
 draft: false
 ---
 Estu, ke mi farigu la plej bonan de kio estas donita al me hodiaŭ, funde vivi la vivon pri mi havas.
