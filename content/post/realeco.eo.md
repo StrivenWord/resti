@@ -11,5 +11,5 @@ Estu, ke mi akceptu fiaskon sen iam akcepti malvenko, neniam rezigni eĉ, post k
 
 Kvankam mi estas suferonta, permesu ne, ke mia doloro estus la vaka malsato de tiuj kiu vivas nur por konsumi ĉar ili estas forlasinta espero.
 
-Bonvolu permesi, ke mi vidu mian espero hodiaŭ.
+Bonvolu permesi, ke mi vidu mian esperon hodiaŭ.
 
