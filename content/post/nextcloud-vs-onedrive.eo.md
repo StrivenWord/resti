@@ -2,8 +2,8 @@
 title = "NextCloud Kontraŭ OneDrive"
 author = "Striv"
 date = "2021-04-23T16:24:46-34:00"
-categories = ["poetry"]
-tags = ["Esperanto", "English"]
+categories = ["teĥnologia", "ideo"]
+tags = ["esperanta-lingvo"]
 draft = "false"
 +++
 
