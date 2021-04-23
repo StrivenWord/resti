@@ -13,5 +13,3 @@ Estu, ke mi akceptu fiaskon sen iam akcepti malvenkon, neniam rezigni eĉ, post 
 Kvankam mi estas suferonta, permesu, ke mia doloro ne estu la vaka malsato de tiuj, kiuj vivas nur por konsumi ĉar ili estas forlasinta esperon.
 
 Bonvolu permesi, ke mi vidu mian esperon hodiaŭ.
-
-
