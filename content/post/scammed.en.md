@@ -1,8 +1,11 @@
----
-title: "Scammed"
-date: 2021-04-24T07:32:09-04:00
-draft: true
----
++++
+title = "Too Late I Recognized a Scam"
+author = "Striv"
+date = "2021-04-24T07:32:09-04:00"
+cateogries = ["essay"]
+tags = ["English"]
+draft = "true"
++++
 
 ![Cover image with the scales from the statue of Justice with the title text](/post-images/scammed/post-cover_scammed.jpg)
 
