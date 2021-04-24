@@ -2,8 +2,8 @@
 title = "Too Late I Recognized a Scam"
 author = "Striv"
 date = "2021-04-24T07:32:09-04:00"
-cateogries = ["essay"]
-tags = ["English"]
+cateogries = ["tezo"]
+tags = ["angla-lingvo"]
 draft = "false"
 +++
 
