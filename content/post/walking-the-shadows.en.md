@@ -1,8 +1,10 @@
 +++
 title = "Walking the Shadows"
+author = "Striv"
 date = "2021-09-02T19:09:23-04:00"
 categories = ["poetry"]
 tags = ["English"]
+draft = "false"
 +++
 
 ![Cover image containing an illustration of a person wearing a backpack walking down a shadowy alley at night](/post-images/walking-the-shadows/walking-the-shadows_sm.jpg "Image from Adobe Stock")
