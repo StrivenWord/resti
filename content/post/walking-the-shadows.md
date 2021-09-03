@@ -7,7 +7,7 @@ tags = ["English"]
 
 ![Cover image containing an illustration of a person wearing a backpack walking down a shadowy alley at night](/post-images/walking-the-shadows/walking-the-shadows_sm.jpg)
 
->>>
+{{<poem>}}
 
 I see the shadows move around the bend.
 Without an origin, they lack a destined fate.
@@ -47,4 +47,5 @@ I come to the intersection of darkness and light.
 They cannot unite for love or war, except
 For the places where my footsteps have stirred them together.
 I sit at the bank and dangle my feet, while I watch.
->>>
+
+{{</poem>}}
