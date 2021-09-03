@@ -5,7 +5,7 @@ categories = ["poetry"]
 tags = ["English"]
 +++
 
-![Cover image containing an illustration of a person wearing a backpack walking down a shadowy alley at night](/post-images/walking-the-shadows/walking-the-shadows_sm.jpg)
+![Cover image containing an illustration of a person wearing a backpack walking down a shadowy alley at night](/post-images/walking-the-shadows/walking-the-shadows_sm.jpg "Image from Adobe Stock")
 
 {{<poem>}}
 
