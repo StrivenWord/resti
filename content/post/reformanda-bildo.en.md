@@ -14,7 +14,7 @@ Anyone who wishes to provide attribution for this image should identify its sour
 
 <!--more-->
 
-![Reformanda graphic](/post-images/common/reformanda.svg)
+{{< reformanda-svg >}}
 
 ---
 
