@@ -2,7 +2,6 @@
 title = "Reformanda Bildo"
 date = "2021-09-24T07:37:18-04:00"
 draft = "false"
-svgcontainer = "true"
 +++
 
 In October of 2017, I created this image. The inspiration behind the visual concept was the five hundredth aniversary of the day when Martin Luther nailed his theological protests to the church door in Germany. My personal name for the design is "Reformanda," and to me it represents the constant struggle to reclaim what was good and true of past traditions by applying them graciously in the context of the real present.
@@ -15,7 +14,7 @@ Anyone who wishes to provide attribution for this image should identify its sour
 
 <!--more-->
 
-{{< reformanda-svg >}}
+![Reformanda graphic](/post-images/common/reformanda.png)
 
 ---
 
